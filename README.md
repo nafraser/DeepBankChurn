@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This notebook is for investigating the use of an ANN, specifically for a classification model where the dependent variable is imbalanced. The notebook uses the same BankChurners.csv used in the BankChurn [notebook](https://github.com/nafraser/BankChurn) and is guided by a Tensorflow [Tutorial](https://www.tensorflow.org/tutorials/structured_data/imbalanced_data). It is a work in progress as I learn more.  
+This notebook is for investigating the use of an ANN, specifically for a classification model where the dependent variable is imbalanced. The notebook uses the same BankChurners.csv used in the BankChurn [notebook](https://github.com/nafraser/BankChurn) and is guided by a Tensorflow [Tutorial](https://www.tensorflow.org/tutorials/structured_data/imbalanced_data). Also, currently I'm training the model using non-categorical variables only. While the original BankChurn has many dummy variables, ATM this notebook drops them.  It is a work in progress as I learn more.  
 
 ## Business Context
 
